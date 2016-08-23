@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "419611605557",
+    "firebase_url": "https://wanproject-c794d.firebaseio.com",
+    "project_id": "wanproject-c794d",
+    "storage_bucket": "wanproject-c794d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419611605557:android:c249720e42b1eb8d",
+        "android_client_info": {
+          "package_name": "com.example.ubun17.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419611605557-oae1jm4psghoocfbsjh4faplaa346d6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTL12rfTHKU1QXPvEuzPEX-lf0X0Ofs_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
